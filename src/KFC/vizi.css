@@ -1,0 +1,27 @@
+.yes{
+    width: 1348px;
+    height: 500px;
+    background-image: url(../img/hty.jpeg);
+    background-size: 1348px;
+    background-repeat: no-repeat;
+}
+.ico{
+    width: 90px;
+}
+.ico1{
+    width: 90px;
+    margin-left: 20px;
+}
+.fef{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.fef h3{
+    color: white;
+    font-size: 35px;
+}
+.fef h6{
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+}

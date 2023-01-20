@@ -1,0 +1,28 @@
+.tav{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 23px;
+}
+.hr{
+    margin: 0 auto;
+    width: 350px;
+    height: 3px;
+    background-color: red;
+}
+.fon{
+    text-align: center;
+}
+.pa{
+    transform: translate(0px, 4px);
+}
+.had{
+    box-shadow: 10px 10px 20px 10px #0001;
+    position: 20px;
+}
+.hama{
+    margin-top: 50px;
+}
+.btr{
+    width: 350px;
+    margin-top: 50px;
+}

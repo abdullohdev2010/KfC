@@ -1,0 +1,43 @@
+.logo{
+    padding-top: 20px;
+    margin-left: 90px;
+}
+.navba button{
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.btna button{
+    width: 160px;
+}
+.btna h6{
+    font-size: 14px;
+    margin-top: 5px;
+}
+.tele{
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+}
+.ico{
+    font-size: 20px;
+}
+.btna{
+    margin-left: 60px;
+
+}
+.s{
+    margin-top: 20px;
+}
+.navba{
+    position: fixed;
+    z-index: 1;
+}
+.ha{
+    transform: translate(10px, -10px);
+}
+.haw{
+    margin-left: 10px;
+}
